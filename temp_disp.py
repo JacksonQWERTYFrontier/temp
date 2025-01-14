@@ -8,6 +8,7 @@ from adafruit_display_text import label
 from fourwire import FourWire
 from adafruit_st7789 import ST7789
 
+
 # Set some parameters used for shapes and text
 BORDER = 20
 FONTSCALE = 2
